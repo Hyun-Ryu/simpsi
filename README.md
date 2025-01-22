@@ -4,6 +4,9 @@
 </p>
 <!-- <h5 align="center"> A SimPSI diagram. </h5> -->
 
+Updates:
+ - Jan, 2025: We have updated the arxived paper to the camera-ready version of AAAI 2024, and attached the appendix.
+
 ### Paper
 Official source code for ["SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation"](https://arxiv.org/abs/2312.05790), AAAI 2024 [[1]](#ref).
 
