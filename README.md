@@ -81,10 +81,13 @@ where ```EXP_NAME``` is the name of the experiment, ```AUG_LIST``` is a sequence
 ## Citation
 <a name="ref"></a>
 ```bash
-@article{ryu2023simpsi,
+@inproceedings{ryu2024simpsi,
   title={SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation},
-  author={Ryu, Hyun and Yoon, Sunjae and Yoon, Hee Suk and Yoon, Eunseop and Yoo, Chang D.},
-  journal={arXiv preprint arXiv:2312.05790},
-  year={2023}
+  author={Ryu, Hyun and Yoon, Sunjae and Yoon, Hee Suk and Yoon, Eunseop and Yoo, Chang D},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={13},
+  pages={14857--14865},
+  year={2024}
 }
 ```
